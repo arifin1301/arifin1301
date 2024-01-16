@@ -23,7 +23,7 @@ I'm currently active in Google DSC as Leader at <a href="https://instagram.com/g
 <p align="left">
 <a href="https://github.com/arifin1301">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=arifin1301&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dimasmds&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=arifin1301&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
