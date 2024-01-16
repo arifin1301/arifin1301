@@ -2,7 +2,7 @@
 
 An independent Software Engineer who loves to create and share projects about web technology! I've enjoyed JavaScript and make it the main language in creating a project.
 
-I'm currently active in Google DSC as Leader at <a href="https://instagram.com/gdsc.ubg">@gdsc.ubg</a> to build event about google technology.
+I'm currently active in Google Developer Student Club as Leader at <a href="https://instagram.com/gdsc.ubg">@gdsc.ubg</a> to build and share event about google technology.
 
 - 🔭 I’m currently computer science student on Bumigora University
 - 🌱 I’m currently learning about cloud technology for back-end apps
