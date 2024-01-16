@@ -4,7 +4,7 @@ An independent Software Engineer who loves to create and share projects about we
 
 I'm currently active in Google DSC as Leader at <a href="https://instagram.com/gdsc.ubg">@gdsc.ubg</a> to build event about google technology.
 
-- 🔭 I’m currently working on <a href="https://github.com/dicodingacademy">@dicodingacademy</a>
+- 🔭 I’m currently computer science student on Bumigora University
 - 🌱 I’m currently learning about cloud technology for back-end apps
 - 💬 Feel free to ask me about web development or JavaScript
 - 📫 How to reach me: juniordion7@gmail.com
