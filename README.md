@@ -28,7 +28,6 @@ I'm currently active in Google DSC as Leader at <a href="https://instagram.com/g
 </p>
 
 ### Reach me on
-- <a href="https://linkedin.com/in/dimasmds/">LinkedIn</a>
-- <a href="https://dmds.dev">dmds.dev</a>
-- dimas@dicoding.com
-- <a href="https://twitter/dimsmds">Twitter</a>
+- <a href="https://linkedin.com/in/dionarifin13012003/">LinkedIn</a>
+- <a href="https://instagram.com/arifindion__">Instagram</a>
+- juniordion7@gmail.com
