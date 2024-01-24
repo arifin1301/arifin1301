@@ -1,11 +1,11 @@
 ### Hi! 👋 I'm Dion.
 
-An Computer Science student who loves to create and share projects about web technology! I've enjoyed JavaScript and make it the main language in creating a project.
+An Computer Science student who loves to create and share projects about web technology and cross-mobile Platforms (flutter)! I've enjoyed JavaScript and Dart make it the main language in creating a project.
 
 I'm currently active in Google Developer Student Club as Leader at <a href="https://instagram.com/gdsc.ubg">@gdsc.ubg</a> to create event and sharing about google technology.
 
 - 🔭 I’m currently computer science student on Bumigora University
-- 🌱 I’m currently learning about back-end and front-end technology web apps
+- 🌱 I’m currently learning about back-end, front-end, and Mobile apps technology
 - 💬 Feel free to ask me about web development or JavaScript
 - 📫 How to reach me: juniordion7@gmail.com
 - ⚡ Fun fact: I'm handsome😃
